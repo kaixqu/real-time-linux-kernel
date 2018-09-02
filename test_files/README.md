@@ -1,4 +1,5 @@
 If you want to use this file. There are some commands you need to run first, which are contained in the "Real-time Ubuntu.pdf"
+
 sudo -s
 
 apt-get install rt-tests
@@ -8,6 +9,7 @@ apt-get install gnuplot
 After download these files, I would suggest you put them in your home folder, which will make it easier to run. We need to use following command to make these files executable.
 
 chmod +x <~ or your download folder>/cyclictest_run.sh
+
 chmod +x <~ or your download folder>/cyclictest_plot.sh
   
 To run these files, you need to do the following commands.
