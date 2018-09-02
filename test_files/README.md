@@ -8,14 +8,14 @@ After download these files, I would suggest you put them in your home folder, wh
 
   chmod +x <~ or your download folder>/cyclictest_run.sh
   chmod +x <~ or your download folder>/cyclictest_plot.sh
-
+  
 To run these files, you need to do the following commands.
 
-  sudo –s #we need root permission
-  ./cyclictest_run.sh 100000 > result
-  
+sudo –s #we need root permission
+./cyclictest_run.sh 100000 > result
+
 Wait for a few minutes. This command creates a file named “result” containing the testing result. Then,
 
-  ./cyclictest_plot.sh result
-  
+./cyclictest_plot.sh result
+
 This command visualizes your data and put it in result.png in your current directory. Go see it!
