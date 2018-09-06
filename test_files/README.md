@@ -41,4 +41,4 @@ Wait for a few minutes. This command creates a file named “result” containin
 This command visualizes your data and put it in result.png in your current directory. Go see it!
 
 ---
-There are some results in test_results folder for you to see.
+There are some results in ../test_results folder for you to see.
