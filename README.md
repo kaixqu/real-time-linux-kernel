@@ -1,4 +1,4 @@
-# real-time-ubuntu
+# Real-time ubuntu
 
 This work is done at the TREC lab under the supervision of Prof. Alexander Leonessa
 
