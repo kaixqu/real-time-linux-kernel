@@ -1,4 +1,4 @@
-If you want to use this file. There are some commands you need to run first, which are specified in the "Real-time Ubuntu.pdf"
+If you want to follow these guides. There are some commands you need to run first, which are specified in the "Real-time Ubuntu.pdf"
 
 ```
 sudo -s
@@ -21,6 +21,7 @@ sudo –s #we need root permission
 ```
 
 Wait for a few minutes. This command creates a file named “result” containing the testing result. Then,
+
 ```
 ./cyclictest_plot.sh result
 ```
