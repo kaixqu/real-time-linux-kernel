@@ -1,4 +1,4 @@
-# Before anything
+# Please follow this guide
 Use following command to download these files
 ```
 wget https://raw.githubusercontent.com/qkx515/real-time-ubuntu/master/test_files/cyclictest_plot.sh
