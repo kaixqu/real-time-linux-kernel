@@ -1,4 +1,4 @@
-use following command to download your files
+Use following command to download these files
 ```
 wget https://raw.githubusercontent.com/qkx515/real-time-ubuntu/master/test_files/cyclictest_plot.sh
 wget https://raw.githubusercontent.com/qkx515/real-time-ubuntu/master/test_files/cyclictest_run.sh
@@ -6,6 +6,7 @@ wget https://raw.githubusercontent.com/qkx515/real-time-ubuntu/master/test_files
 Or
 you can just open these links and save these files directly by ctrl + s
 
+-------------------------------------------------------------------------------------------------------------------------------
 
 If you want to use these files. There are some commands you need to run first, which are specified in the "Real-time Ubuntu.pdf"
 
@@ -34,4 +35,5 @@ Wait for a few minutes. This command creates a file named “result” containin
 ```
 ./cyclictest_plot.sh result
 ```
+
 This command visualizes your data and put it in result.png in your current directory. Go see it!
