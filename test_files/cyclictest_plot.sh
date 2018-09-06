@@ -85,7 +85,7 @@ fi
 
 
 echo "
-set xlabel \"Preemption Time (us)\"
+set xlabel \"Latency (us)\"
 set ylabel \"Number of Samples\"
 set logscale y
 set grid
