@@ -1,4 +1,13 @@
-If you want to follow these guides. There are some commands you need to run first, which are specified in the "Real-time Ubuntu.pdf"
+use following command to download your files
+```
+wget https://raw.githubusercontent.com/qkx515/real-time-ubuntu/master/test_files/cyclictest_plot.sh
+wget https://raw.githubusercontent.com/qkx515/real-time-ubuntu/master/test_files/cyclictest_run.sh
+```
+Or
+you can just open these links and save these files directly by ctrl + s
+
+
+If you want to use these files. There are some commands you need to run first, which are specified in the "Real-time Ubuntu.pdf"
 
 ```
 sudo -s
