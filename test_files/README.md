@@ -8,7 +8,7 @@ Or
 
 you can just open these links and save these files directly by ctrl + s
 
--------------------------------------------------------------------------------------------------------------------------------
+---
 
 If you want to use these files. There are some commands you need to run first, which are specified in the "Real-time Ubuntu.pdf"
 
@@ -39,3 +39,6 @@ Wait for a few minutes. This command creates a file named “result” containin
 ```
 
 This command visualizes your data and put it in result.png in your current directory. Go see it!
+
+---
+There are some results in test_results folder for you to see.
