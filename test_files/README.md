@@ -1,24 +1,26 @@
 # Please follow this guide
 Use following command to download these files
 ```
-wget https://raw.githubusercontent.com/qkx515/real-time-ubuntu/master/test_files/cyclictest_plot.sh
-wget https://raw.githubusercontent.com/qkx515/real-time-ubuntu/master/test_files/cyclictest_run.sh
+wget https://raw.githubusercontent.com/qkx515/real-time-linux-kernel/master/test_files/cyclictest_plot.sh
+wget https://raw.githubusercontent.com/qkx515/real-time-linux-kernel/master/test_files/cyclictest_run.sh
 ```
-Or
+
+or
 
 you can just open these links and save these files directly by ctrl + s
 
 ---
 
-If you want to use these files. There are some commands you need to run first, which are specified in the "Real-time Ubuntu.pdf"
+If you want to use these files. There are some commands you need to run first.
 
 ```
 sudo -s
-apt-get install rt-tests
-apt-get install gnuplot
+apt-get install rt-tests gnuplot
 ```
 
-After download these files, I would suggest you put them in your home folder, which will make it easier to run. We need to use following command to make these files executable.
+After download these files, I would suggest you put them in your home folder, which will make it easier to run. We need to use following command to make these files executable. 
+
+**<~ or your download folder> is a placeholder here.**
 
 ```
 chmod +x <~ or your download folder>/cyclictest_run.sh
