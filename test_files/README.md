@@ -1,5 +1,8 @@
 # Please follow this guide
-Use following command to download these files
+
+## This part is included in the installation guide
+Use following command to download these files.
+
 ```
 wget https://raw.githubusercontent.com/qkx515/real-time-linux-kernel/master/test_files/cyclictest_plot.sh
 wget https://raw.githubusercontent.com/qkx515/real-time-linux-kernel/master/test_files/cyclictest_run.sh
