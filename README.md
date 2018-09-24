@@ -6,7 +6,9 @@ Basically, it is about make linux kernel real-time. This is a requirement if you
 
 ## How to use these files.
 
-1. Read "Read-time ubuntu.pdf". There are some concepts about real-time for everyone, and some linux concepts mainly focused on ME students. Please skip the part you already know. When you achieve the part **"4.3 Install the kernel"**, you can move to  **install_guide folder**
+1. Read "Real-time implementation for humanoid robots.pdf" first. There are some concepts about real-time for everyone, and some linux concepts mainly focused on ME students. You can skip the part you already know.
+
+When you are going to install real-time linux kernel, go to [installation_guide](https://github.com/qkx515/real-time-linux-kernel/tree/master/installation_guide) folder.
 
 2. 
     -> install *lowlatency kernel*
