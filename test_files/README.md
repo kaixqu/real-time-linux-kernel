@@ -1,5 +1,3 @@
-# Please follow this guide
-
 ## This part is included in the installation guide
 Use following command to download these files.
 
